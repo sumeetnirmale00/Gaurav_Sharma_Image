@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: nginx-custom
-          image: coolgourav147/nginx-custom
+          image: coolgourav147/nginx-customv1
           ports:
             - containerPort: 80
